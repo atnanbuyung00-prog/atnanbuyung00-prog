@@ -4,11 +4,15 @@
 
 <br/>
 
+<img src="./assets/hall-of-armor.svg?v=hall5" width="100%" alt="Hall of Armor featuring three full body animated Iron Man suits: classic red gold, silver nanotech, blue stealth"/>
+
+<br/>
+
 <img src="./assets/mission.svg?v=ironman2" width="100%" alt="Arc reactor inspired mission panel"/>
 
 ### ⚡ ARMOR SYSTEMS ONLINE
 
-*Flying Iron Man armor • Animated jet thrusters • Arc reactor glow • Futuristic HUD*
+*Three full-body armor variants • Classic red-gold • Nanotech silver • Stealth blue • Animated Arc Reactors*
 
 </div>
 
