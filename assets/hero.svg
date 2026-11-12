@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-label="Animated GitHub profile introduction">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#081226"/><stop offset=".55" stop-color="#10284a"/><stop offset="1" stop-color="#071526"/></linearGradient><linearGradient id="accent" x2="1"><stop stop-color="#30e3ca"/><stop offset="1" stop-color="#62a8ff"/></linearGradient></defs>
+<rect width="1000" height="340" rx="24" fill="url(#bg)"/>
+<g opacity=".25" stroke="#3b7cad"><path d="M0 80H1000M0 160H1000M0 240H1000M100 0V340M250 0V340M400 0V340M550 0V340M700 0V340M850 0V340"/></g>
+<circle cx="835" cy="167" r="105" stroke="url(#accent)" fill="none" stroke-width="2" stroke-dasharray="18 12"><animateTransform attributeName="transform" type="rotate" from="0 835 167" to="360 835 167" dur="28s" repeatCount="indefinite"/></circle>
+<circle cx="835" cy="167" r="75" fill="#123a54" opacity=".5"/><path d="M790 182l31-40 26 24 40-44" fill="none" stroke="url(#accent)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><circle cx="835" cy="167" r="4" fill="#fff"/>
+<text x="65" y="77" fill="#30e3ca" font-family="Arial,sans-serif" font-size="17" letter-spacing="4">WELCOME TO MY GITHUB</text>
+<text x="65" y="149" fill="#fff" font-family="Arial,sans-serif" font-size="56" font-weight="bold">HELLO, I'M</text>
+<text x="65" y="214" fill="url(#accent)" font-family="Arial,sans-serif" font-size="51" font-weight="bold">ATNANBUYUNG00</text>
+<text x="65" y="265" fill="#c4d8ee" font-family="Arial,sans-serif" font-size="20">Building useful systems • Learning • Creating</text>
+<rect x="65" y="288" width="350" height="3" rx="2" fill="#254665"/><rect x="65" y="288" width="110" height="3" rx="2" fill="#30e3ca"><animate attributeName="width" values="40;350;40" dur="4s" repeatCount="indefinite"/></rect>
+<g fill="#30e3ca"><circle cx="80" cy="35" r="3"><animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/></circle><circle cx="610" cy="65" r="3"><animate attributeName="opacity" values="1;0;1" dur="4s" repeatCount="indefinite"/></circle><circle cx="953" cy="285" r="3"><animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/></circle></g>
+</svg>
