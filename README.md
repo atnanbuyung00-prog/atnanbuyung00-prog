@@ -1,46 +1,39 @@
 <div align="center">
 
-<img src="./assets/ironman-wallpaper.svg?v=flight4" width="100%" alt="Iron Man armor character and animated arc reactor wallpaper"/>
+<img src="./assets/space-hero.svg?v=space20261112" alt="Outer space GitHub profile banner with UFO and planets" width="100%"/>
 
-<br/>
+<img src="./assets/space-mission.svg?v=space20261112" alt="Mission control" width="100%"/>
 
-<img src="./assets/mission.svg?v=ironman2" width="100%" alt="Arc reactor inspired mission panel"/>
+### 🌌 SPACE STATION ONLINE
 
-### ⚡ ARMOR SYSTEMS ONLINE
-
-*Stark-inspired HUD • Three distinct full-body armors, one for each project*
+*Planet • UFO • Stars • Galaxy • Clean project layout*
 
 </div>
 
-## 🦾 ACTIVE PROJECT MODULES
-
-Three matching project panels, each with a different full-body armor. Click any panel to open its repository.
+## 🚀 FEATURED PROJECT MISSIONS
 
 <div align="center">
 
-<a href="https://github.com/atnanbuyung00-prog/Sistem-display-ok.v1"><img src="./assets/ironman-display.svg?v=tidy6" width="100%" alt="Animated Display System project card"/></a>
+<a href="https://github.com/atnanbuyung00-prog/Sistem-display-ok.v1"><img src="./assets/space-display.svg?v=space20261112" alt="Display System project with animated planet" width="100%"/></a>
 
-<a href="https://github.com/atnanbuyung00-prog/IT-TIKET"><img src="./assets/ironman-ticket.svg?v=tidy6" width="100%" alt="Animated IT Ticketing project card"/></a>
+<a href="https://github.com/atnanbuyung00-prog/IT-TIKET"><img src="./assets/space-ticket.svg?v=space20261112" alt="IT Ticketing project with animated UFO" width="100%"/></a>
 
-<a href="https://github.com/atnanbuyung00-prog/Sistem-Diet-Gizi-RS"><img src="./assets/ironman-diet.svg?v=tidy6" width="100%" alt="Animated Hospital Nutrition project card"/></a>
+<a href="https://github.com/atnanbuyung00-prog/Sistem-Diet-Gizi-RS"><img src="./assets/space-diet.svg?v=space20261112" alt="Hospital nutrition project with orbiting space station" width="100%"/></a>
 
 </div>
 
-## 🔧 ABOUT THE BUILDER
+## 🛰️ ABOUT ME
 
-I build practical software systems, explore technology, and keep improving workflows. My repositories document experiments and real projects.
+I explore technology, build practical applications, and improve everyday workflows. Welcome to my GitHub universe.
 
-## 🌐 CONNECT & EXPLORE
+## ✨ EXPLORE MORE
 
 <div align="center">
 
-<a href="https://github.com/atnanbuyung00-prog?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-8C1D24?style=for-the-badge&logo=github&logoColor=FFD47B" alt="See repositories"/></a>
-<a href="https://github.com/atnanbuyung00-prog?tab=overview"><img src="https://img.shields.io/badge/ACTIVITY-C78B2B?style=for-the-badge&logo=github&logoColor=ffffff" alt="View activity"/></a>
+[**All repositories**](https://github.com/atnanbuyung00-prog?tab=repositories) • [**GitHub activity**](https://github.com/atnanbuyung00-prog?tab=overview)
 
-<img src="./assets/connect.svg?v=ironman2" width="100%" alt="Animated mission footer"/>
+<img src="./assets/space-connect.svg?v=space20261112" alt="Space themed footer" width="100%"/>
 
-**POWERED BY CURIOSITY · BUILT FOR WHAT'S NEXT**
-
-<sub>Fan-inspired armored-tech visual theme. Not affiliated with Marvel Studios.</sub>
+**KEEP BUILDING · KEEP EXPLORING**
 
 </div>
