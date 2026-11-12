@@ -1,27 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="310" viewBox="0 0 1100 310" role="img"><defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#060c18"/><stop offset=".55" stop-color="#301019"/><stop offset="1" stop-color="#0d1b2e"/></linearGradient><linearGradient id="red" x1="0" x2="1"><stop stop-color="#5e101c"/><stop offset=".28" stop-color="#e1382e"/><stop offset=".55" stop-color="#bc1c25"/><stop offset="1" stop-color="#5d0b16"/></linearGradient><linearGradient id="gold" x1="0" x2="1" y1="0" y2=".8"><stop stop-color="#9e4b1c"/><stop offset=".38" stop-color="#fff0b5"/><stop offset=".7" stop-color="#e7a64a"/><stop offset="1" stop-color="#9c591e"/></linearGradient><radialGradient id="halo"><stop stop-color="#ceffff" stop-opacity="1"/><stop offset=".32" stop-color="#50d3ff" stop-opacity=".58"/><stop offset="1" stop-color="#24bfff" stop-opacity="0"/></radialGradient></defs><rect width="1100" height="310" rx="18" fill="url(#bg)"/><g opacity=".15" stroke="#e8a351"><path d="M0 60H1100M0 150H1100M0 240H1100M0 330H1100M90 0V310M290 0V310M490 0V310M690 0V310M890 0V310"/></g><circle cx="890" cy="148" r="125" fill="none" stroke="#c9873a" stroke-width="2" stroke-dasharray="8 12"><animateTransform attributeName="transform" type="rotate" from="0 890 148" to="360 890 148" dur="21s" repeatCount="indefinite"/></circle><g><animateTransform attributeName="transform" type="translate" values="0 0; -105 -30; 65 18; -25 -15; 0 0" keyTimes="0;.32;.65;.84;1" dur="14s" repeatCount="indefinite" calcMode="linear"/><animateTransform attributeName="transform" additive="sum" type="rotate" values="0 900 150;-4 900 150;3 900 150;0 900 150" dur="14s" repeatCount="indefinite"/><g opacity=".7"><path d="M864 251L880 307 895 248Z M921 248L936 307 950 251Z" fill="#58ddff"><animate attributeName="opacity" values=".25;1;.25" dur=".8s" repeatCount="indefinite"/></path></g><g transform="translate(900 151) scale(0.48)">
-<ellipse cx="0" cy="10" rx="188" ry="244" fill="url(#halo)" opacity=".46"><animate attributeName="opacity" values=".28;.55;.28" dur="4s" repeatCount="indefinite"/></ellipse>
-<!-- wing-like shoulder armor -->
-<path d="M-92 101Q-167 85 -222 134L-242 213 -188 247 -114 205 -75 168Z" fill="url(#red)" stroke="#e6a64f" stroke-width="5"/>
-<path d="M92 101Q167 85 222 134L242 213 188 247 114 205 75 168Z" fill="url(#red)" stroke="#e6a64f" stroke-width="5"/>
-<path d="M-200 147L-240 200 -205 220 -143 182Z M200 147L240 200 205 220 143 182Z" fill="url(#gold)" opacity=".9"/>
-<!-- torso -->
-<path d="M-109 107L-155 192 -133 335 -62 373 62 373 133 335 155 192 109 107 55 82 -55 82Z" fill="url(#red)" stroke="#ffc267" stroke-width="6"/>
-<path d="M-99 153L-132 217 -105 313 -46 332 -72 239Z M99 153L132 217 105 313 46 332 72 239Z" fill="url(#gold)" stroke="#e6aa52" stroke-width="3"/>
-<path d="M-55 263L0 288 55 263 61 358 -61 358Z" fill="#9f2124" stroke="#f0b35e" stroke-width="4"/>
-<path d="M-84 104L-126 171 -85 199 -43 164 -36 104Z M84 104L126 171 85 199 43 164 36 104Z" fill="#ca282a" stroke="#f4b75e" stroke-width="4"/>
-<circle cy="205" r="57" fill="url(#halo)" opacity=".9"/>
-<circle cy="205" r="39" fill="#7fe8ff" stroke="#c4ffff" stroke-width="10"/>
-<circle cy="205" r="25" fill="#ddffff" stroke="#60cfff" stroke-width="7"/>
-<circle cy="205" r="50" fill="none" stroke="#bdeeff" stroke-width="2" stroke-dasharray="5 9"><animateTransform attributeName="transform" type="rotate" from="0 0 205" to="360 0 205" dur="9s" repeatCount="indefinite"/></circle>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 440" width="1100" height="440" role="img" aria-label="HOSPITAL NUTRITION project card with animated full-body armor">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#070a13"/><stop offset=".55" stop-color="#25101b"/><stop offset="1" stop-color="#091b2b"/></linearGradient>
+<linearGradient id="red" x2="1"><stop stop-color="#600c19"/><stop offset=".45" stop-color="#eb3b2e"/><stop offset="1" stop-color="#770c18"/></linearGradient>
+<linearGradient id="gold" x2="1"><stop stop-color="#945212"/><stop offset=".5" stop-color="#ffe4a0"/><stop offset="1" stop-color="#b06c21"/></linearGradient>
+<linearGradient id="silver" x2="1"><stop stop-color="#44566c"/><stop offset=".5" stop-color="#e7f0fc"/><stop offset="1" stop-color="#566d85"/></linearGradient>
+<linearGradient id="stealth" x2="1"><stop stop-color="#07152b"/><stop offset=".5" stop-color="#225a82"/><stop offset="1" stop-color="#091c34"/></linearGradient>
+<radialGradient id="reactor"><stop stop-color="#ffffff"/><stop offset=".27" stop-color="#9ef4ff"/><stop offset=".65" stop-color="#24b6fb" stop-opacity=".7"/><stop offset="1" stop-color="#24b6fb" stop-opacity="0"/></radialGradient></defs>
+<rect width="1100" height="440" rx="22" fill="#0c1321"/>
+<path d="M0 88H1100 M0 350H1100 M50 0V440 M575 0V440 M925 0V440" stroke="#743d34" stroke-width="1" opacity=".34"/>
+<path d="M18 102V22H198 M902 22H1082V105 M1082 337V418H900 M198 418H18V337" fill="none" stroke="#76d9f7" stroke-width="3" opacity=".7"/>
+<rect x="42" y="44" width="483" height="38" rx="6" fill="#3c1825" stroke="#ac533c"/>
+<text x="60" y="69" font-size="17" fill="#76d9f7" font-family="monospace">ARMOR PROJECT MODULE // 03</text>
+<text x="43" y="152" font-size="34" font-weight="bold" fill="#fff4dd" font-family="Arial,sans-serif">HOSPITAL NUTRITION</text>
+<text x="43" y="207" font-size="29" font-weight="bold" fill="#76d9f7" font-family="Arial,sans-serif">Sistem Diet Gizi RS</text>
+<text x="43" y="252" font-size="22" fill="#c4d9e8" font-family="Arial,sans-serif">Hospital diet &amp; nutrition workflow</text>
+<text x="43" y="311" font-size="18" fill="#78d8ee" font-family="monospace">BLUE STEALTH ARMOR</text>
+<text x="43" y="357" font-size="15" fill="#dfb078" font-family="monospace">STATUS: READY  /  OPEN REPOSITORY</text>
+<rect x="43" y="386" width="484" height="3" fill="#693f3d"/>
+<rect x="43" y="386" width="95" height="3" fill="#65dbff"><animate attributeName="width" values="65;484;65" dur="5s" repeatCount="indefinite"/></rect>
+<circle cx="865" cy="214" r="192" fill="url(#reactor)" opacity=".17"/>
+<circle cx="865" cy="214" r="186" fill="none" stroke="#76d9f7" stroke-width="2" stroke-dasharray="8 16" opacity=".52"><animateTransform attributeName="transform" type="rotate" from="0 865 214" to="360 865 214" dur="23s" repeatCount="indefinite"/></circle>
+<g transform="translate(865 48) scale(.59) translate(-1135 0)"><g transform="translate(1135 83)">
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -17;0 0;0 9;0 0" dur="6s" begin="1.6s" repeatCount="indefinite"/>
+<ellipse cy="242" rx="160" ry="241" fill="url(#reactor)" opacity=".2"/>
+<!-- rear thrusters -->
+<path d="M-82 395L-61 493 -40 395Z M40 395L61 493 82 395Z" fill="#5ee0ff" opacity=".65"><animate attributeName="opacity" values=".25;.85;.25" dur=".9s" repeatCount="indefinite"/></path>
+<path d="M-76 400L-61 468 -50 400Z M50 400L61 468 76 400Z" fill="#e3ffff" opacity=".7"/>
+<!-- legs full length -->
+<path d="M-68 272L-13 272 -18 396 -31 480 -83 480 -91 437 -82 344Z" fill="url(#stealth)" stroke="#90a9d8" stroke-width="4"/>
+<path d="M13 272L68 272 82 344 91 437 83 480 31 480 18 396Z" fill="url(#stealth)" stroke="#90a9d8" stroke-width="4"/>
+<path d="M-76 340L-27 341 -35 404 -81 401Z M27 341L76 340 81 401 35 404Z" fill="url(#gold)" stroke="#90a9d8" stroke-width="3"/>
+<path d="M-88 458L-25 459 -21 495 -45 508 -108 508 -107 488Z M25 459L88 458 107 488 108 508 45 508 21 495Z" fill="url(#gold)" stroke="#90a9d8" stroke-width="4"/>
+<path d="M-72 474L-44 474 -39 485 -80 485Z M44 474L72 474 80 485 39 485Z" fill="#b7f5ff"/>
+<!-- arms extended slightly outward -->
+<path d="M-78 117L-128 122 -171 216 -152 274 -116 264 -120 210 -79 179Z" fill="url(#stealth)" stroke="#90a9d8" stroke-width="4"/>
+<path d="M78 117L128 122 171 216 152 274 116 264 120 210 79 179Z" fill="url(#stealth)" stroke="#90a9d8" stroke-width="4"/>
+<path d="M-147 202L-174 245 -167 316 -133 321 -116 271Z M147 202L174 245 167 316 133 321 116 271Z" fill="url(#gold)" stroke="#90a9d8" stroke-width="4"/>
+<path d="M-166 307L-174 344 -152 359 -126 339 -134 309Z M166 307L174 344 152 359 126 339 134 309Z" fill="url(#stealth)" stroke="#90a9d8" stroke-width="4"/>
+<circle cx="-153" cy="331" r="14" fill="url(#reactor)"/><circle cx="153" cy="331" r="14" fill="url(#reactor)"/>
+<!-- chest and waist -->
+<path d="M-96 105L-117 166 -87 276 -49 305 49 305 87 276 117 166 96 105 42 86 -42 86Z" fill="url(#stealth)" stroke="#90a9d8" stroke-width="5"/>
+<path d="M-86 152L-114 176 -85 238 -51 230 -41 164Z M86 152L114 176 85 238 51 230 41 164Z" fill="url(#gold)" stroke="#90a9d8" stroke-width="3"/>
+<path d="M-48 244L0 271 48 244 54 298 -54 298Z" fill="url(#gold)" stroke="#90a9d8" stroke-width="3"/>
+<path d="M-100 107L-141 132 -122 186 -77 163Z M100 107L141 132 122 186 77 163Z" fill="url(#gold)" stroke="#90a9d8" stroke-width="4"/>
+<circle cy="173" r="49" fill="url(#reactor)" opacity=".95"><animate attributeName="opacity" values=".5;1;.5" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle cy="173" r="27" fill="#dcffff" stroke="#73e0ff" stroke-width="10"/>
+<circle cy="173" r="39" fill="none" stroke="#e9faff" stroke-dasharray="5 8" stroke-width="2"><animateTransform attributeName="transform" type="rotate" from="0 0 173" to="360 0 173" dur="10s" repeatCount="indefinite"/></circle>
 <!-- neck -->
-<path d="M-53 68L-48 124 0 147 48 124 53 68Z" fill="#a52b2d" stroke="#f5c274" stroke-width="4"/>
-<!-- helmet outer -->
-<path d="M-107-105L-74-180 -36-203 36-203 74-180 107-105 106 17 77 88 28 115 -28 115 -77 88 -106 17Z" fill="url(#red)" stroke="#f2b15f" stroke-width="6"/>
-<path d="M-76-178L-28-211 28-211 76-178 51-148 -51-148Z" fill="url(#gold)" stroke="#ffdea0" stroke-width="3"/>
-<path d="M-75-141L-32-160 32-160 75-141 72-56 92-30 77 41 42 70 20 89 -20 89 -42 70 -77 41 -92-30 -72-56Z" fill="url(#gold)" stroke="#ffcc7c" stroke-width="5"/>
-<path d="M-80-32L-17-17 -38 7 -82 1Z M80-32L17-17 38 7 82 1Z" fill="#d9ffff" stroke="#5fdbff" stroke-width="5"><animate attributeName="opacity" values="1;.7;1" dur="2.5s" repeatCount="indefinite"/></path>
-<path d="M-58 23L-33 66 0 76 33 66 58 23L31 35 -31 35Z" fill="#a96230" opacity=".68"/>
-<path d="M-29 79L0 87 29 79" fill="none" stroke="#812d29" stroke-width="7"/>
-<path d="M-107-77L-122-31 -100 23 -88-18Z M107-77L122-31 100 23 88-18Z" fill="url(#red)" stroke="#e3a352" stroke-width="4"/>
-<path d="M-58-137L-26-145 26-145 58-137" fill="none" stroke="#fff2c9" stroke-width="4" opacity=".55"/>
-</g></g><text x="40" y="58" fill="#82e8ff" font-family="monospace" font-size="19">STARK PROJECT MODULE 03</text><text x="40" y="127" fill="#ffe0a1" font-family="Arial" font-size="40" font-weight="bold">HOSPITAL NUTRITION</text><text x="40" y="174" fill="#fff" font-family="Arial" font-size="23">DIET &amp; NUTRITION WORKFLOW</text><text x="40" y="224" fill="#85cddd" font-family="monospace" font-size="18">Sistem-Diet-Gizi-RS</text><rect x="40" y="257" width="600" height="4" rx="2" fill="#6c3834"/><rect x="40" y="257" width="150" height="4" rx="2" fill="#7defff"><animate attributeName="width" values="30;600;30" dur="6s" repeatCount="indefinite"/></rect></svg>
+<path d="M-41 70L-40 110 0 127 40 110 41 70Z" fill="url(#stealth)" stroke="#90a9d8" stroke-width="4"/>
+<!-- helmet -->
+<path d="M-80-79L-61-137 -25-156 25-156 61-137 80-79 82 10 57 76 23 97 -23 97 -57 76 -82 10Z" fill="url(#stealth)" stroke="#90a9d8" stroke-width="5"/>
+<path d="M-57-129L-28-156 28-156 57-129 42-107 -42-107Z" fill="url(#gold)"/>
+<path d="M-63-105L-27-117 27-117 63-105 61-32 75-10 57 52 19 72 -19 72 -57 52 -75-10 -61-32Z" fill="url(#gold)" stroke="#90a9d8" stroke-width="3"/>
+<path d="M-66-30L-11-19 -25 4 -65-2Z M66-30L11-19 25 4 65-2Z" fill="#efffff" stroke="#50cfff" stroke-width="4"><animate attributeName="opacity" values="1;.6;1" dur="2s" repeatCount="indefinite"/></path>
+<path d="M-32 48L0 58 32 48" stroke="#a5582c" stroke-width="6" fill="none"/>
+<path d="M-82-62L-93-20 -77 19Z M82-62L93-20 77 19Z" fill="url(#stealth)" stroke="#90a9d8" stroke-width="3"/>
+</g></g></g>
+</svg>
