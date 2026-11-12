@@ -4,31 +4,25 @@
 
 <br/>
 
-<img src="./assets/hall-of-armor.svg?v=hall5" width="100%" alt="Hall of Armor featuring three full body animated Iron Man suits: classic red gold, silver nanotech, blue stealth"/>
-
-<br/>
-
 <img src="./assets/mission.svg?v=ironman2" width="100%" alt="Arc reactor inspired mission panel"/>
 
 ### ⚡ ARMOR SYSTEMS ONLINE
 
-*Three full-body armor variants • Classic red-gold • Nanotech silver • Stealth blue • Animated Arc Reactors*
+*Stark-inspired HUD • Three distinct full-body armors, one for each project*
 
 </div>
 
 ## 🦾 ACTIVE PROJECT MODULES
 
-Each mission module has its own animated red-and-gold HUD card. Click a card to open the repository.
+Three matching project panels, each with a different full-body armor. Click any panel to open its repository.
 
 <div align="center">
 
-<a href="https://github.com/atnanbuyung00-prog/Sistem-display-ok.v1"><img src="./assets/ironman-display.svg?v=flight4" width="100%" alt="Animated Display System project card"/></a>
+<a href="https://github.com/atnanbuyung00-prog/Sistem-display-ok.v1"><img src="./assets/ironman-display.svg?v=tidy6" width="100%" alt="Animated Display System project card"/></a>
 
-<a href="https://github.com/atnanbuyung00-prog/IT-TIKET"><img src="./assets/ironman-ticket.svg?v=flight4" width="100%" alt="Animated IT Ticketing project card"/></a>
+<a href="https://github.com/atnanbuyung00-prog/IT-TIKET"><img src="./assets/ironman-ticket.svg?v=tidy6" width="100%" alt="Animated IT Ticketing project card"/></a>
 
-<a href="https://github.com/atnanbuyung00-prog/Sistem-Diet-Gizi-RS"><img src="./assets/ironman-diet.svg?v=flight4" width="100%" alt="Animated Hospital Nutrition project card"/></a>
-
-<img src="./assets/projects.svg?v=ironman2" width="100%" alt="Animated armor dashboard"/>
+<a href="https://github.com/atnanbuyung00-prog/Sistem-Diet-Gizi-RS"><img src="./assets/ironman-diet.svg?v=tidy6" width="100%" alt="Animated Hospital Nutrition project card"/></a>
 
 </div>
 
