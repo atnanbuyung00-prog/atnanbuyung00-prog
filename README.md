@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/ironman-wallpaper.svg?v=armor3" width="100%" alt="Iron Man armor character and animated arc reactor wallpaper"/>
+<img src="./assets/ironman-wallpaper.svg?v=flight4" width="100%" alt="Iron Man armor character and animated arc reactor wallpaper"/>
 
 <br/>
 
@@ -8,7 +8,7 @@
 
 ### ⚡ ARMOR SYSTEMS ONLINE
 
-*Iron Man armor illustrations • Arc reactor glow • Futuristic HUD • Animated project art*
+*Flying Iron Man armor • Animated jet thrusters • Arc reactor glow • Futuristic HUD*
 
 </div>
 
@@ -18,11 +18,11 @@ Each mission module has its own animated red-and-gold HUD card. Click a card to 
 
 <div align="center">
 
-<a href="https://github.com/atnanbuyung00-prog/Sistem-display-ok.v1"><img src="./assets/ironman-display.svg?v=armor3" width="100%" alt="Animated Display System project card"/></a>
+<a href="https://github.com/atnanbuyung00-prog/Sistem-display-ok.v1"><img src="./assets/ironman-display.svg?v=flight4" width="100%" alt="Animated Display System project card"/></a>
 
-<a href="https://github.com/atnanbuyung00-prog/IT-TIKET"><img src="./assets/ironman-ticket.svg?v=armor3" width="100%" alt="Animated IT Ticketing project card"/></a>
+<a href="https://github.com/atnanbuyung00-prog/IT-TIKET"><img src="./assets/ironman-ticket.svg?v=flight4" width="100%" alt="Animated IT Ticketing project card"/></a>
 
-<a href="https://github.com/atnanbuyung00-prog/Sistem-Diet-Gizi-RS"><img src="./assets/ironman-diet.svg?v=armor3" width="100%" alt="Animated Hospital Nutrition project card"/></a>
+<a href="https://github.com/atnanbuyung00-prog/Sistem-Diet-Gizi-RS"><img src="./assets/ironman-diet.svg?v=flight4" width="100%" alt="Animated Hospital Nutrition project card"/></a>
 
 <img src="./assets/projects.svg?v=ironman2" width="100%" alt="Animated armor dashboard"/>
 
