@@ -21,14 +21,14 @@ I enjoy building practical applications and improving everyday workflows through
 | [IT-TIKET](https://github.com/atnanbuyung00-prog/IT-TIKET) | IT ticketing project |
 | [Sistem Diet Gizi RS](https://github.com/atnanbuyung00-prog/Sistem-Diet-Gizi-RS) | Nutrition and hospital diet system |
 
-### 📊 GitHub activity
+### 📊 Projects &amp; contributions
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=atnanbuyung00-prog&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atnanbuyung00-prog&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" height="170" />
+<img src="./assets/projects.svg" alt="Animated dashboard highlighting three repositories" width="100%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atnanbuyung00-prog&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution activity graph" />
+[![Repositories](https://img.shields.io/badge/View-All_Repositories-30e3ca?style=for-the-badge&logo=github&logoColor=0b172a)](https://github.com/atnanbuyung00-prog?tab=repositories)
+[![Contributions](https://img.shields.io/badge/View-Contribution_History-8aaaff?style=for-the-badge&logo=github&logoColor=0b172a)](https://github.com/atnanbuyung00-prog?tab=overview)
 
 <img src="./assets/connect.svg" alt="Let's connect" width="100%" />
 
